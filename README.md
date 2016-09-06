@@ -12,6 +12,8 @@ A program to auto generate a set of exchange buddies for a gift exchange.  At th
     Name of exchange
     Guest Name
     Guest Email
+    Guest Likes
+    Guest Dislikes
     
-The Guest Name and Guest email parts are required for each guest.
+The Guest * parts are required for each guest.
 There is no GUI at the moment.
