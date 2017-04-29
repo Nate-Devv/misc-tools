@@ -3,8 +3,8 @@ A set of miscellaneous tools written in Python, Java, etc.
 
 ## Tools Available:
 
-1. [Gift Exchanger (Python)] (#gifte)
-2. [Find Validator (Python)] (#fvalid)
+1. [Gift Exchanger (Python)](#gifte)
+2. [Find Validator (Python)](#fvalid)
 
 ## 1. Gift Exchanger (Python) <a name=gifte></a>
 
