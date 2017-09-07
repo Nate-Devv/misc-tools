@@ -87,3 +87,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Standard gifte config name
+gift_exchanger/geconf.txt
